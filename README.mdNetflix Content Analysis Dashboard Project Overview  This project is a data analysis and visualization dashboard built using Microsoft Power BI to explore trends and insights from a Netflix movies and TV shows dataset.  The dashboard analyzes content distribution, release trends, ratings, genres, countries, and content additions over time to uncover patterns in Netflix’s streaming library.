@@ -1,0 +1,80 @@
+# Netflix Content Analysis Dashboard
+
+## Project Overview
+This project provides an interactive view of Netflix content trends, including genre distribution, ratings analysis, country contributions, 
+and yearly content growth. Users can apply filters to explore insights dynamically.
+
+## Problem Statement
+Netflix contains a large collection of content, making it difficult to quickly identify trends and patterns.
+
+This dashboard helps to:
+- Analyze content distribution (Movies vs TV Shows).
+
+- Identify popular genres.
+
+- Explore content growth over time.
+
+- Understand ratings distribution.
+
+- Compare country contributions.
+
+## Key Metrics (KPIs)
+- Total Titles.
+- Movies Count.
+- TV Shows Count.
+- Top Genre.
+- Top Country.
+- Content Added by Year.
+
+## Dashboard Features
+  ### 1. Content distribution analysis**  
+  - Compares Movies and TV Shows to show the dominant content type on Netflix.
+    
+  ### 2. Genre analysis
+  - Highlights the most popular genres available on the platform.
+    
+  ### 3. Ratings analysis
+  - Analyzes audience ratings to understand content classification trends.
+    
+  ### 4. Country contribution analysis
+  - Displays which countries contribute the most Netflix titles.
+  ### 5. Content growth trends
+  - Shows how Netflix content additions have changed over the years.
+    
+  ### 6. Interactive filters and slicers
+  - Allows users to explore the dashboard dynamically using filters such as genre, type, country, and year.
+    These allow users to dynamically explore the data.
+
+## Tools & Technologies
+- Power BI (Data modeling & visualization).
+- DAX (Measures and calculations).
+- Power Query.
+- CSV Dataset.
+
+## Dataset
+- Netflix Titles Dataset
+
+
+## Key Insights
+- **Movies** dominate Netflix content.
+- **Drama** and **Comedy** are the most common genres.
+- **Content additions** increased after **2016**.
+- The **United States** contributes the most titles.
+
+## Dashboard Preview
+1[Dashboard Screenshot](https://github.com/Olpha-22/Netflix-Content-Analysis/blob/main/Images/Netflic%20Content%20Analysis%20Dashboard.PNG)
+
+
+## Future Improvements
+- Add forecasting analysis.
+- Include sentiment analysis.
+- Add drill-through pages for deeper insights.
+
+## Business Recommendations
+- Invest more in popular genres such as Drama and Comedy to increase audience engagement.
+- Expand content production partnerships in high-performing countries like the United States.
+- Continue increasing content variety to attract different audience groups.
+- Use audience rating trends to improve content targeting and recommendations.
+
+## Author 
+Olipha Nyanchama Oirere
