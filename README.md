@@ -27,7 +27,7 @@ This dashboard helps to:
 - Content Added by Year.
 
 ## Dashboard Features
-  ### 1. Content distribution analysis**  
+  ### 1. Content distribution analysis
   - Compares Movies and TV Shows to show the dominant content type on Netflix.
     
   ### 2. Genre analysis
